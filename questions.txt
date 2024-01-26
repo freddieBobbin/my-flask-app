@@ -1,0 +1,5 @@
+Why write python3.9 -m before commands?
+
+What is the virutal environment for? How is it different from the container?
+
+Why do you need gunicorn? Isn't Flask a server in itself?
